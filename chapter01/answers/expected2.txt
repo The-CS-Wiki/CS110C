@@ -1,0 +1,7 @@
+<class 'float'>
+<class 'dict'>
+<class 'bool'>
+<class 'int'>
+<class 'list'>
+<class 'str'>
+<class 'NoneType'>
