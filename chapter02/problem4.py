@@ -2,8 +2,8 @@
 #  Author: Benjamin Herrera
 #
 #  CS110C // Basics of Python
-#  Chapter 1: Variables
-#  Practice 4, Casting
+#  Chapter 2: Conditions
+#  Practice 4, Try-Except 
 #
 
 # Answers

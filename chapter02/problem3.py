@@ -2,8 +2,8 @@
 #  Author: Benjamin Herrera
 #
 #  CS110C // Basics of Python
-#  Chapter 1: Variables
-#  Practice 3, Variable Initialization
+#  Chapter 2: Conditions
+#  Practice 3, Control Flow
 #
 
 # Answers

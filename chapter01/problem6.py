@@ -3,7 +3,7 @@
 #
 #  CS110C // Basics of Python
 #  Chapter 1: Variables
-#  Practice 4, List and Dictionaries
+#  Practice 6, List and Dictionaries
 #
 
 # Answers

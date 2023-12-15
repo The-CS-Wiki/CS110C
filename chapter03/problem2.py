@@ -2,8 +2,8 @@
 #  Author: Benjamin Herrera
 #
 #  CS110C // Basics of Python
-#  Chapter 1: Variables
-#  Practice 2, Variable Values
+#  Chapter 3: Loops
+#  Practice 2, Break
 #
 
 # Answers

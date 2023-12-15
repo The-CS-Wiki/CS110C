@@ -2,8 +2,8 @@
 #  Author: Benjamin Herrera
 #
 #  CS110C // Basics of Python
-#  Chapter 1: Variables
-#  Practice 1, Datatypes
+#  Chapter 2: Conditions
+#  Practice 1, Relational Operations
 #
 
 # Answers
