@@ -1,0 +1,21 @@
+Standings in Phoenix League:
+1. Team_1 - Points: 0, Wins: 0, Losses: 0, Red Cards: 0, Team Aptitude: 0.79
+2. Team_2 - Points: 0, Wins: 0, Losses: 0, Red Cards: 0, Team Aptitude: 0.72
+3. Team_3 - Points: 0, Wins: 0, Losses: 0, Red Cards: 0, Team Aptitude: 0.74
+4. Team_4 - Points: 0, Wins: 0, Losses: 0, Red Cards: 0, Team Aptitude: 0.72
+5. Team_5 - Points: 0, Wins: 0, Losses: 0, Red Cards: 0, Team Aptitude: 0.74
+6. Team_6 - Points: 0, Wins: 0, Losses: 0, Red Cards: 0, Team Aptitude: 0.79
+
+Season starting...
+
+Standings in Phoenix League:
+1. Team_1 - Points: 19, Wins: 5, Losses: 0, Red Cards: 1, Team Aptitude: 0.83
+2. Team_6 - Points: 10, Wins: 4, Losses: 1, Red Cards: 2, Team Aptitude: 0.82
+3. Team_3 - Points: -1, Wins: 3, Losses: 2, Red Cards: 5, Team Aptitude: 0.78
+4. Team_2 - Points: -10, Wins: 2, Losses: 3, Red Cards: 6, Team Aptitude: 0.77
+5. Team_5 - Points: -16, Wins: 1, Losses: 4, Red Cards: 4, Team Aptitude: 0.78
+6. Team_4 - Points: -26, Wins: 0, Losses: 5, Red Cards: 6, Team Aptitude: 0.76
+
+Tournament starting...
+
+The champion of the Phoenix League is Team_1!
